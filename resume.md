@@ -2,6 +2,12 @@
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
+<<<<<<< my-resume
+## Job History
+
+### GitHub Trainer
+=======
+>>>>>>> main
 
 Teach all things Git, give away all the stickers, ensure world peace.
 
